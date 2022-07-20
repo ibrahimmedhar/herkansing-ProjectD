@@ -1,0 +1,452 @@
+.showmorebutton {
+    position: relative;
+    left: 50%;
+}
+
+.button {
+    background-color: #0000a4; /* bol.com blue*/
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    position: relative;
+}
+
+
+.button-up {
+    margin-top: 5px;
+    background-color: #020082; /* bol.com blue*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.button-up:focus {
+    color: #020069;
+    box-shadow: inset 1px 1px 4px #222;
+    transform: translateY(1px);
+}
+
+
+.button-up2 {
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #020082; /* bol.com blue*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.button-up2:focus {
+    color: #020069;
+    box-shadow: inset 1px 1px 4px #222;
+    transform: translateY(1px);
+}
+
+.toptxt {
+    font: montserrat;
+    float: none;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 45px;
+    clear: both;
+}
+
+
+
+.upload-container {
+    clear: both;
+    float: none;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.upload-container .vak {
+    border: 2px solid #0000a4;
+    background: #e8ebe9;
+    outline: 2px dashed #0000a4;
+    outline-offset: -10px;
+    padding: 100px 0px 100px 250px;
+    text-align: center !important;
+    width: 600px;
+    height: 400px;
+    max-height: 400px;
+
+}
+
+.upload-container .vak input:hover {
+    background: #e3e3e3;
+}
+
+.upload-container:before {
+    float: none;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-41%, -50%);
+    content: " Click field to upload or drag and drop files here. ";
+    font-size: 30px;
+    color: #0000a4;
+    font: montserrat;
+    font-weight: 450;
+    width: 400px;
+}
+
+.upload-btn {
+    margin-left: 300px;
+    padding: 7px 10px;
+}
+
+.submitbutton {
+    float: none;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 80px;
+}
+
+
+/* navigation bar */
+
+nav {
+    background: #0000a4;
+    height: 100px;
+    width: 100%; 
+    position: fixed;
+    overflow: hidden;
+    clear: both;
+    z-index:1;
+    transition: 200ms ease-in-out;
+}
+
+.logo {
+    float: left;
+
+}
+
+nav ul {
+    float: none;
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 75px;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    font: montserrat;
+    color: inherit;
+    border-radius: 3px;
+    font-size: 30px;
+    transition: 200ms ease-in-out;
+}
+
+nav ul li a:visited {
+    color: white;
+}
+
+a.active,a:hover {
+    font-size: 35px;
+    transition: .5s;
+    color: white;
+}
+
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+  
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+.navswitch {
+    float: right;
+    margin: 7px 10px 0px 0px;
+
+}
+
+.switchtxt {
+    font: montserrat;
+    color: white;
+    font-size: 25px;
+    padding-right: 10px;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+nav tr:hover .switchtxt{
+    font-size: 30px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    
+}
+
+nav tr:hover .switch{
+    width: 70px;
+    height: 40px;
+    transition: .4s;
+    
+}
+
+nav tr:hover .slider::before {
+    height: 30px;
+    width: 30px;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    padding-top: 110px;
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    grid-template-columns: 0.5fr 1fr 1fr 1fr;
+    grid-template-rows: 1.5fr 1.5fr 1.5fr 1.5fr;
+    grid-template-areas:
+    'header header header header'
+    'menu main main main'
+    'menu footer footer footer';
+}
+.header{
+    grid-area: header;
+    background: #020082;
+}
+
+/* MENU */
+
+.menu{
+    grid-area: menu; 
+}
+
+.button-tts {
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #020082; /* bol.com blue*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.button-tts:focus {
+    color: #020069;
+    box-shadow: inset 1px 1px 4px #222;
+    transform: translateY(1px);
+}
+
+.button-contrast {
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #020082; /* bol.com blue*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.button-contrast:focus {
+    color: #020069;
+    box-shadow: inset 1px 1px 4px #222;
+    transform: translateY(1px);
+}
+
+.dropdown-clothing {
+position: relative;
+display: inline-block;
+}
+
+.content-clothing {
+display: none;
+position: absolute;
+background-color: #f1f1f1;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.content-clothing .button {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+}
+
+.clothing {
+    background-color: #458a06;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+  
+.content-clothing select:hover{
+    background-color: #ddd;
+}
+
+.dropdown-clothing:hover .content-clothing {
+    display: block;
+}
+
+
+/* MAIN */
+.main{
+    grid-area: main;
+    padding-top: 20px;
+}
+
+
+/* Product card, list, container */
+.product-list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 40px;
+}
+
+.product-card{
+    background-color: white;
+    width: 350px;
+    height: 450px;
+    border-radius: 25px;
+    padding: 1em;
+    max-width: 100%;
+    border-style: solid;
+    word-wrap: break-word;
+    transition: 200ms ease-in-out;
+}
+
+.product-card .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product-card .price{
+    margin-top: 5px;
+}
+
+.product-card:hover{
+    transform: scale(1.5);
+}
+
+.body-highcontrast{
+    background-color: black;
+}
+
+.uploaded-text{
+    color: yellow;
+}
+
+.imagereturn-text{
+    color: yellow;
+}
+
+
+.product-cardhc{
+    background-color: black;
+    color: rgb(51, 236, 0);
+    border-color: #E300FC;
+    height: 480px;
+    font-size: 1.3em;
+}
+
+.upload-buttonhc{
+    background-color: black; /* bol.com blue*/
+    border: 2px solid aqua ;
+    color: aqua;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    position: relative;
+}
+
+.toptexthc{
+    color: yellow;
+}
+

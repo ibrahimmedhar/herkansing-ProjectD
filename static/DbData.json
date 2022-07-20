@@ -1,0 +1,1742 @@
+{
+    "Clothing": {
+        "T-Shirts": [
+            {
+                "Name": "Pierre Cardin - Heren Polo SS Basic Polo - Blauw",
+                "Price": 19.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/pierre-cardin-heren-polo-ss-basic-polo-blauw-maat-l/9200000058031313/",
+                "ImagePath": "https://media.s-bol.com/q534ypoL4lG/550x715.jpg"
+            },
+            {
+                "Name": "Fruit Of The Loom Heren Valueweight T-shirt met korte mouwen (Oranje) - EK-WK-Olympische Spelen",
+                "Price": 10.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fruit-of-the-loom-heren-valueweight-t-shirt-met-korte-mouwen-maat-l-ek-wk-olympische-spelen/9300000010007707/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.4_33.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/oZEG9p7B6vqj/1103x1200.jpg"
+            },
+            {
+                "Name": "Nike Sportswear Club Heren T-Shirt",
+                "Price": 19.99,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nike-sportswear-club-heren-t-shirt-maat-l/9200000108824141/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.4_33.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/DYwDyrOOKKPy/824x1200.jpg"
+            },
+            {
+                "Name": "JACK&JONES ORIGINALS JORCOPENHAGEN TEE SS CREW NECK NOOS Heren T-Shirt",
+                "Price": 15.24,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-originals-jorcopenhagen-tee-ss-crew-neck-noos-heren-t-shirt-maat-l/9300000009398305/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.4_33.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/jYzDPQ4oBoxz/972x1200.jpg"
+            },
+            {
+                "Name": "5 Pack Fruit of the Loom Ronde Hals Valueweight T-shirt Wit",
+                "Price": 19.55,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/5-pack-fruit-of-the-loom-ronde-hals-valueweight-t-shirt-wit-l/9200000090784483/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.itEO25-jNB-UTjhNAYRMhA_0_30.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mAG5G16RVr3/967x1200.jpg"
+            },
+            {
+                "Name": "Klere-Zooi - Hey Marco, Prima! - Heren T-Shirt",
+                "Price": 18.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/klere-zooi-hey-marco-prima-heren-t-shirt-l/9300000100948727/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.jCmrfFOH6I-MURzNb9ZGmQ_0_30.41.ProductImage",
+                "ImagePath": "https://media.s-bol.com/DWkJQ6jKQgRB/83EGzYl/550x622.jpg"
+            },
+            {
+                "Name": "Under Armour UA SPORTSTYLE LC SS Heren T-Shirt",
+                "Price": 23.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/under-armour-ua-sportstyle-lc-ss-heren-t-shirt-maat-l/9200000125069251/?bltgh=sez1gUXtnIpm8Lb1jNRNxg.uNbmDkoyMXFDmZScOsVECQ_0_30.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YQkqDYQz5W1O/k5LNzlv/1015x1200.jpg"
+            },
+            {
+                "Name": "The North Face S s Easy Tee - Eu Outdoorshirt Heren",
+                "Price": 34.9,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/the-north-face-s-s-easy-tee-eu-outdoorshirt-heren-tnf-black/9200000073666230/?s2a=#productTitle",
+                "ImagePath": "https://media.s-bol.com/NJgwm5PJ4l6/945x1200.jpg"
+            },
+            {
+                "Name": "ONLY CARMAKOMA CARVICA Dames Top",
+                "Price": 19.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-carmakoma-carvica-dames-top-maat-44/9300000016532536/?bltgh=uKkH1kzX1hy4HI4ZIApNYA.rq-u88TC0jOf52tsv3NOxQ_0_30.32.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g2QM0Ew9gqX6/879x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLVIC S S SOLID TOP NOOS WVN Dames Top",
+                "Price": 16.99,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onlvic-s-s-solid-top-noos-wvn-dames-top-maat-40/9200000128362349/?bltgh=uKkH1kzX1hy4HI4ZIApNYA.rq-u88TC0jOf52tsv3NOxQ_0_30.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y6GjEygXNWrW/868x1200.jpg"
+            },
+            {
+                "Name": "Fox Originals Neon met Blacklight Splatter Lion Essentials Heren T-shirt",
+                "Price": 18.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fox-originals-neon-met-blacklight-splatter-lion-essentials-heren-t-shirt-maat-m/9300000061743107/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/XnZBYjw4nM6m/4Qvm2K7/936x1200.jpg"
+            },
+            {
+                "Name": "Fox Originals Amsterdam Authentic Heren T-shirt",
+                "Price": 16.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fox-originals-amsterdam-authentic-heren-t-shirt-maat-xl/9300000003231694/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/2OYlGnNjgRr1/xnzqyyB/936x1200.jpg"
+            },
+            {
+                "Name": "60 Jaar Legend - Feest kado T-Shirt Heren   Dames - Zilver   Goud - Perfect Verjaardag Cadeau Shirt - grappige Spreuken, Zinnen en Teksten",
+                "Price": 19.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/60-jaar-legend-feest-kado-t-shirt-heren-dames-zilver-goud-perfect-verjaardag-cadeau-shirt-grappige-spreuken-zinnen-en-teksten-maat-xl/9300000091186386/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Rk09og5GxnwK/D1zqB05/550x548.jpg"
+            },
+            {
+                "Name": "JDY JDYDIVYA 3 4 TOP WVN NOOS Dames Top",
+                "Price": 19.99,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jdy-jdydivya-3-4-top-wvn-noos-dames-top-maat-l/9300000011704752/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3yEz939YWW0A/977x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLVIC S S SOLID TOP NOOS PTM Dames T-shirt",
+                "Price": 16.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onlvic-s-s-solid-top-noos-ptm-dames-t-shirt-maat-44/9300000024196164/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3wLBMGOOj4rR/872x1200.jpg"
+            },
+            {
+                "Name": "Pieces PCANNA SS TOP NOOS BC Dames T-shirt",
+                "Price": 15.74,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/pieces-pcanna-ss-top-noos-bc-dames-t-shirt-maat-s/9300000016487532/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x106kEEg8gn3/936x1200.jpg"
+            },
+            {
+                "Name": "Noppies Naadloze Voedingstop Seamless",
+                "Price": 23.81,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/noppies-naadloze-voedingstop-seamless-black-m-l/9200000055554094/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.4_34.55.ProductImage",
+                "ImagePath": "https://media.s-bol.com/7kRROwY0v8G/628x1200.jpg"
+            },
+            {
+                "Name": "s.Oliver Dames Top Mouwloos",
+                "Price": 28.79,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/s-oliver-dames-top-mouwloos-maat-m/9300000078824263/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/o7wpZ5vloLPA/jZJ9p4R/943x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLELCOS 4 5 AOP TOP JRS NOOS Dames T-shirt",
+                "Price": 19.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onlelcos-4-5-aop-top-jrs-noos-dames-t-shirt-maat-m/9300000074154460/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g6GZlJJjKBjD/q7j7Apr/852x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLLIVE LOVE LIFE SS ONECK TOP NOOS JRS Dames T-Shirt",
+                "Price": 10.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onllive-love-life-ss-oneck-top-noos-jrs-dames-t-shirt-maat-m/9200000133264306/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.43.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x6Qjg86XK8lz/920x1200.jpg"
+            },
+            {
+                "Name": "Fox Originals Vintage Rock T-shirt Amsterdam Heren & Dames Katoen Blue Dusk Blauw",
+                "Price": 16.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fox-originals-vintage-rock-t-shirt-amsterdam-heren-dames-katoen-blue-dusk-blauw-maat-xxl/9300000003231825/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BQwG1KyMyAQo/lxkQkAr/936x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLMOSTER S S O-NECK TOP NOOS JRS Dames T-shirt",
+                "Price": 16.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onlmoster-s-s-o-neck-top-noos-jrs-dames-t-shirt-maat-l/9200000128361236/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NxqlQVQBJkpv/916x1200.jpg"
+            },
+            {
+                "Name": "ONLY ONLLUCY REG S S LEOPARD TOP BOX CS JRS Dames T-shirt",
+                "Price": 16.99,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-onllucy-reg-s-s-leopard-top-box-cs-jrs-dames-t-shirt-maat-l/9300000070515247/?bltgh=gWYjEeNdGH1bkeeVzINNhQ.ibD3H5KluDFLpuB7jeJAXw_0_30.52.ProductImage",
+                "ImagePath": "https://media.s-bol.com/PglWN8PAzlLW/wVQkZG8/953x1200.jpg"
+            },
+            {
+                "Name": "GARCIA Jongens T-shirt Blauw",
+                "Price": 14.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/garcia-jongens-t-shirt-blauw-maat-176/9300000084981887/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.34.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Rjog37l07vWR/79AAKw8/550x661.jpg"
+            },
+            {
+                "Name": "Ajax baby T-shirt",
+                "Price": 15.5,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/ajax-baby-t-shirt-maat-62-68/9200000095523751/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g19VVoRMgz9/550x472.jpg"
+            },
+            {
+                "Name": "GARCIA Jongens T-shirt Rood",
+                "Price": 15.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/garcia-jongens-t-shirt-rood-maat-140-146/9300000084977938/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/ZvwoLjDG0EJ8/q742LGy/550x710.jpg"
+            },
+            {
+                "Name": "Retour Jeans Sean Jongens T-shirt",
+                "Price": 14.99,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/retour-jeans-sean-jongens-t-shirt-maat-170-176/9300000055193395/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/R5ov5WEBn2Ez/PZNBzVz/984x1200.jpg"
+            },
+            {
+                "Name": "Calvin Klein - Jongens - 2-Pack Modern Cotton Ronde",
+                "Price": 26.9,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/calvin-klein-jongens-2-pack-modern-cotton-ronde-zwart-152-158/9200000118147319/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.55.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JwmZV6nW7ky/550x675.jpg"
+            },
+            {
+                "Name": "Ballin Amsterdam - Jongens Slim Fit T-shirt",
+                "Price": 39.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/ballin-amsterdam-jongens-slim-fit-t-shirt-groen-maat-164/9300000080692523/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.jeIZM5QQihoxXbzYejZLfg_0_30.58.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y04LBvKzAL0Y/k8l4y35/990x1200.jpg"
+            },
+            {
+                "Name": "JACK&JONES JUNIOR JJTARIF TEE SS JNR Jongens T-Shirt",
+                "Price": 16.19,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-junior-jjtarif-tee-ss-jnr-jongens-t-shirt-maat-176/9300000068811309/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.tp-EB9AJ1wfbtrhRDm5E3A_0_30.31.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m867NlP1EzVp/5Q2L7Yv/550x684.jpg"
+            },
+            {
+                "Name": "Nike Just Do It Jongens T-Shirt",
+                "Price": 19.98,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nike-just-do-it-jongens-t-shirt-maat-l/9300000015393363/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.tp-EB9AJ1wfbtrhRDm5E3A_0_30.39.ProductImage",
+                "ImagePath": "https://media.s-bol.com/2OE29Q2k6Q1v/NLxy436/742x1200.jpg"
+            },
+            {
+                "Name": "JACK&JONES JUNIOR JJPALM TEE SS JNR Jongens T-Shirt",
+                "Price": 9.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-junior-jjpalm-tee-ss-jnr-jongens-t-shirt-maat-164/9300000068811118/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.tp-EB9AJ1wfbtrhRDm5E3A_0_30.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NX2r5EZMn86v/q7G7v07/550x635.jpg"
+            },
+            {
+                "Name": "Noppies T-shirt Huddersfield Baby",
+                "Price": 17.99,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/noppies-t-shirt-huddersfield-baby-maat-80/9300000070918327/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.tp-EB9AJ1wfbtrhRDm5E3A_0_30.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m88nNQx9JNzA/jZlO5Z5/1200x1090.jpg"
+            },
+            {
+                "Name": "JACK&JONES JUNIOR JJNEW SPLASH TEE SS JNR Jongens T-shirt",
+                "Price": 12.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-junior-jjnew-splash-tee-ss-jnr-jongens-t-shirt-maat-164/9300000068811096/?bltgh=lt3nuBIjpDyUyk2dEjpE-Q.tp-EB9AJ1wfbtrhRDm5E3A_0_30.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x978D6j1ywXl/7LlB7Jy/550x655.jpg"
+            }
+        ],
+        "Jeans": [
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 814 NOOS Heren Jeans",
+                "Price": 26.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-814-noos-heren-jeans-maat-32-x-l32/9200000119822339/?bltgh=sPyuUiswVXYa4A01awNIkw.jdcJ7eBefO-FYFNmJaVKZg_0_43.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JZmO141NrDoD/287x840.jpg"
+            },
+            {
+                "Name": "WE Fashion Heren skinny fit comfort stretch jeans",
+                "Price": 40.0,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/we-fashion-heren-skinny-fit-comfort-stretch-jeans-maat-w34-x-l32/9200000132903952/?bltgh=sPyuUiswVXYa4A01awNIkw.jdcJ7eBefO-FYFNmJaVKZg_0_43.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/XoK00RXX3L1g/428x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 817 NOOS Heren Jeans",
+                "Price": 34.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-817-noos-heren-jeans-maat-32-x-l32/9200000128361706/?bltgh=sPyuUiswVXYa4A01awNIkw.jdcJ7eBefO-FYFNmJaVKZg_0_43.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mwoKW4L0KkrR/288x840.jpg"
+            },
+            {
+                "Name": "ONLY & SONS ONSPLY LIFE JOG BLUE SHORTS PK 8584 NOOS Heren Broek",
+                "Price": 26.99,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-sons-onsply-life-jog-blue-shorts-pk-8584-noos-heren-broek-maat-l/9300000016488820/?bltgh=sPyuUiswVXYa4A01awNIkw.jdcJ7eBefO-FYFNmJaVKZg_0_43.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Bngm2W1XwmO2/1023x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIRICK JJIORIGINAL SHORTS AM 261 50SPS Heren Broek",
+                "Price": 24.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjirick-jjioriginal-shorts-am-261-50sps-heren-broek-maat-l/9300000074853481/?bltgh=grlAVhSXqzj6pXlmF2dM6Q.4_47.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g8KxvoxJqGJG/mODyZ4R/550x677.jpg"
+            },
+            {
+                "Name": "Wrangler TEXAS STRETCH Regular fit Heren Jeans",
+                "Price": 79.95,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wrangler-texas-stretch-regular-fit-heren-jeans-maat-w31-x-l34/9200000106240553/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/q7ZlgqyOzJqD/348x840.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 814 NOOS Heren Jeans",
+                "Price": 39.95,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-814-noos-heren-jeans-maat-32-x-l32/9200000119822339/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JZmO141NrDoD/287x840.jpg"
+            },
+            {
+                "Name": "ONLY & SONS ONSPLY LIFE REG BLK JOG SHT PK 8581 NOOS Heren Heren Broek",
+                "Price": 29.99,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-sons-onsply-life-reg-blk-jog-sht-pk-8581-noos-heren-heren-broek-maat-l/9300000016489427/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mGOD01jpqwY9/l5q7r5J/550x702.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 817 NOOS Heren Jeans",
+                "Price": 39.95,
+                "Discount": 0.25,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-817-noos-heren-jeans-maat-32-x-l32/9200000128361706/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mwoKW4L0KkrR/288x840.jpg"
+            },
+            {
+                "Name": "ONLY & SONS ONSPLY LIFE REG GREY JOG PK 8583 NOOS Heren Broek",
+                "Price": 29.99,
+                "Discount": 0.12,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-sons-onsply-life-reg-grey-jog-pk-8583-noos-heren-broek-maat-m/9300000016488158/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/xlNqL8mpngv9/550x698.jpg"
+            },
+            {
+                "Name": "JACK&JONES JEANS INTELLIGENCE JJIRICK JJICON SHORTS GE 693 I.K SN Heren Broek",
+                "Price": 31.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jeans-intelligence-jjirick-jjicon-shorts-ge-693-i-k-sn-heren-broek-maat-m/9300000070502743/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Jz609gEnQ5Ry/91E4p1Z/1037x1200.jpg"
+            },
+            {
+                "Name": "Wrangler TEXAS STRETCH Regular fit Heren Jeans",
+                "Price": 79.95,
+                "Discount": 0.22,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wrangler-texas-stretch-regular-fit-heren-jeans-maat-w36-x-l32/9200000083659608/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.55.ProductImage",
+                "ImagePath": "https://media.s-bol.com/LPNJv018171v/648x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 815 NOOS Heren Jeans",
+                "Price": 29.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-815-noos-heren-jeans-maat-3232/9200000128362859/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.58.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NxqVBPMgAQpD/411x1200.jpg"
+            },
+            {
+                "Name": "ONLY & SONS ONSLOOM JOG LIFE DK BLUE PK 0431 NOOS Heren Jeans",
+                "Price": 39.99,
+                "Discount": 0.35,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-sons-onsloom-jog-life-dk-blue-pk-0431-noos-heren-jeans-maat-3632/9200000131929121/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.59.ProductImage",
+                "ImagePath": "https://media.s-bol.com/xvwMJRA1Om79/314x840.jpg"
+            },
+            {
+                "Name": "JACK&JONES JEANS INTELLIGENCE JJIRICK JJICON SHORTS GE 835 I.K SN Heren Broek",
+                "Price": 34.9,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jeans-intelligence-jjirick-jjicon-shorts-ge-835-i-k-sn-heren-broek-maat-l/9300000070502739/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.qCuKTF-M9RKJGaShx-5Evg_0_43.60.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Jz60krYrnZjg/4QyXVEJ/988x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 814 NOOS Heren Jeans",
+                "Price": 39.99,
+                "Discount": 0.33,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-814-noos-heren-jeans-maat-34-x-l34/9200000128362735/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y6GjZr14zz4n/287x840.jpg"
+            },
+            {
+                "Name": "Wrangler TEXAS STRETCH Regular fit Heren Jeans",
+                "Price": 79.95,
+                "Discount": 0.39,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wrangler-texas-stretch-regular-fit-heren-jeans-maat-w31-x-l34/9200000106240553/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/q7ZlgqyOzJqD/348x840.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 815 NOOS Heren Jeans",
+                "Price": 39.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-815-noos-heren-jeans-maat-3632/9200000128360694/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g5gA95N91pz9/287x840.jpg"
+            },
+            {
+                "Name": "JACK&JONES JEANS INTELLIGENCE JJITIM JJORIGINAL AM 781 50SPS NOOS Heren Jeans",
+                "Price": 49.99,
+                "Discount": 0.25,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jeans-intelligence-jjitim-jjoriginal-am-781-50sps-noos-heren-jeans-maat-36-x-l34/9300000000324598/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.48.ProductImage",
+                "ImagePath": "https://media.s-bol.com/32Z4J191EqgR/306x840.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIRICK JJIORIGINAL SHORTS AM 061 50SPS Heren Broek",
+                "Price": 29.99,
+                "Discount": 0.13,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjirick-jjioriginal-shorts-am-061-50sps-heren-broek-maat-s/9300000074853399/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m862LZD3NJwE/MwL18zm/550x656.jpg"
+            },
+            {
+                "Name": "WE Fashion Heren skinny fit comfort stretch jeans",
+                "Price": 40,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/we-fashion-heren-skinny-fit-comfort-stretch-jeans-maat-w33-x-l32/9200000133300037/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mQoB1EA4jWOR/299x840.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIRICK JJIORIGINAL SHORTS AM 261 50SPS Heren Broek",
+                "Price": 26.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjirick-jjioriginal-shorts-am-261-50sps-heren-broek-maat-xl/9300000074853501/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JzAYLo3XoZ5P/nxEO545/550x677.jpg"
+            },
+            {
+                "Name": "ONLY & SONS ONSPLY REG BLK JOG SHT PK 8581 NOOS Heren Broek",
+                "Price": 25.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/only-sons-onsply-reg-blk-jog-sht-pk-8581-noos-heren-broek-maat-m/9300000016489063/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.52.ProductImage",
+                "ImagePath": "https://media.s-bol.com/q2jn9ZWBNBVr/957x1200.jpg"
+            },
+            {
+                "Name": "Cars Jeans Seattle Stone Used Heren Denim Short",
+                "Price": 42.49,
+                "Discount": 0.21,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-seattle-stone-used-heren-denim-short-maat-m/9300000019165416/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/0X5BBEolPmJy/qYvjl1r/1200x1123.jpg"
+            },
+            {
+                "Name": "Wrangler TEXAS STRETCH Regular fit Heren Jeans",
+                "Price": 79.95,
+                "Discount": 0.34,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wrangler-texas-stretch-regular-fit-heren-jeans-maat-w34-x-l32/9200000106240391/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/jny805ODAzJl/648x1200.jpg"
+            },
+            {
+                "Name": "JACK&JONES JEANS INTELLIGENCE JJIRICK JJICON SHORTS GE 693 I.K SN Heren Broek",
+                "Price": 31.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jeans-intelligence-jjirick-jjicon-shorts-ge-693-i-k-sn-heren-broek-maat-l/9300000070502779/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.55.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BOBwGM1VwBEJ/nx9K6r5/1037x1200.jpg"
+            },
+            {
+                "Name": "Cars Jeans Heren DOUGLAS DENIM Regular Fit STONE USED",
+                "Price": 39.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-heren-douglas-denim-regular-fit-stone-used-maat-33-32/9300000019166291/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.58.ProductImage",
+                "ImagePath": "https://media.s-bol.com/B6L6L8owKkpx/549x1200.jpg"
+            },
+            {
+                "Name": "Cars Jeans Bedford Regular Fit Comfort Stretch Dark Used Heren Jeans",
+                "Price": 53.96,
+                "Discount": 0.07,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-bedford-regular-fit-comfort-stretch-dark-used-heren-jeans-maat-w34-x-l32/9200000071329000/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.59.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x1v2OAMj8PAE/452x840.jpg"
+            },
+            {
+                "Name": "Cars Jeans Seattle Bleached Used Heren Denim Short",
+                "Price": 42.49,
+                "Discount": 0.21,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-seattle-bleached-used-heren-denim-short-maat-xl/9300000019165917/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.61.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x7Ymm11nWY8B/VPBm7MM/1200x1120.jpg"
+            },
+            {
+                "Name": "Wrangler TEXAS STRETCH Regular fit Heren Jeans",
+                "Price": 79.95,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wrangler-texas-stretch-regular-fit-heren-jeans-maat-w34-x-l32/9200000106240599/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.62.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BgV7NlLDoNDQ/452x1200.jpg"
+            },
+            {
+                "Name": "JACK&JONES JEANS INTELLIGENCE JJIRICK JJICON SHORTS GE 693 I.K SN Heren Broek",
+                "Price": 31.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jeans-intelligence-jjirick-jjicon-shorts-ge-693-i-k-sn-heren-broek-maat-xl/9300000070502748/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.vv1nWdQoc7icwPveg0tPwA_0_43.63.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x8kRW0027Ov9/gZ9zMYj/1037x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 817 NOOS Heren Jeans",
+                "Price": 39.95,
+                "Discount": 0.25,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-817-noos-heren-jeans-maat-34-x-l32/9200000128361788/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.kDh9SnuU8q5F-onFxRpIwA_0_43.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g5gAWWzRBJyZ/412x1200.jpg"
+            },
+            {
+                "Name": "Cars Jeans - Heren Jeans - Regular Fit - Stretch - Lengte 32 - Loyd - Grey Used",
+                "Price": 51.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-heren-jeans-regular-fit-stretch-lengte-32-loyd-grey-used/9200000103564838/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.kDh9SnuU8q5F-onFxRpIwA_0_43.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BPM7Byplgkpx/514x1200.jpg"
+            },
+            {
+                "Name": "Cars Jeans - Heren Jeans - Super Skinny - Stretch - Lengte 36 - Dust - Blue Black",
+                "Price": 59.99,
+                "Discount": 0.28,
+                "ProductPage": "https://www.bol.com/nl/nl/p/cars-jeans-heren-jeans-super-skinny-stretch-lengte-36-dust-blue-black/9200000106263509/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.kDh9SnuU8q5F-onFxRpIwA_0_43.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/OyVBQ54zjXMG/800x1200.jpg"
+            },
+            {
+                "Name": "JACK & JONES JJIGLENN JJORIGINAL AM 815 NOOS Heren Jeans",
+                "Price": 39.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/jack-jones-jjiglenn-jjoriginal-am-815-noos-heren-jeans-maat-2932/9200000128362002/?bltgh=pQpI4Wk-yfzQko-6H45Pxg.kDh9SnuU8q5F-onFxRpIwA_0_43.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/765o0AGpVJPO/411x1200.jpg"
+            }
+        ],
+        "Socks": [
+            {
+                "Name": "SuperDad - Grappige sokken - One Size - Cadeau Mannen - Huissokken - Vaderdag - Verjaardag - Superman - Geschenk Vader - Papa",
+                "Price": 8.95,
+                "Discount": 0.05,
+                "ProductPage": "https://www.bol.com/nl/nl/p/superdad-grappige-sokken-one-size-cadeau-mannen-huissokken-vaderdag-verjaardag-superman-geschenk-vader-papa/9300000041404084/?s2a=#productTitle",
+                "ImagePath": "https://media.s-bol.com/Jz0Z5l5wN04J/46zywN1/916x1200.jpg"
+            },
+            {
+                "Name": "Happy Socks Fruit Giftbox",
+                "Price": 24.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-fruit-giftbox-maat-41-46/9200000088986461/?bltgh=iKBZOY12NEBR8mRrbWxIhg.4_34.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qxRVnKLV4mGR/ANGzmp9/1200x1147.jpg"
+            },
+            {
+                "Name": "Puma Sneaker Unisex Sokken - 6-pack",
+                "Price": 17.99,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/puma-sneaker-unisex-sokken-6-pack-maat-39-42/9300000021057774/?bltgh=iKBZOY12NEBR8mRrbWxIhg.4_34.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JQ5NV3qvl0Lv/550x255.jpg"
+            },
+            {
+                "Name": "Tommy Hilfiger Sokken Heren 6P",
+                "Price": 27.29,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tommy-hilfiger-sokken-heren-6p-maat-43-46/9300000021057862/?bltgh=iKBZOY12NEBR8mRrbWxIhg.j-8XAq3UdM0RzbUYQdlNqg_0_30.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x1X1nGXV9V79/550x390.jpg"
+            },
+            {
+                "Name": "Happy Socks - Navy Gift Box in rood-wit-blauw - Unisex",
+                "Price": 21.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-navy-gift-box-in-rood-wit-blauw-unisex-maat-41-46/9200000116761387/?bltgh=iKBZOY12NEBR8mRrbWxIhg.j-8XAq3UdM0RzbUYQdlNqg_0_30.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/4WYxPj0995E0/jZmjA9l/1200x1177.jpg"
+            },
+            {
+                "Name": "Beer mode   Grappige Sokken   Sokken Heren   Fun Sokken   Vrolijke Sokken   Bundel   6 Paar   Fruit",
+                "Price": 39.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/beer-mode-grappige-sokken-sokken-heren-fun-sokken-vrolijke-sokken-bundel-6-paar-fruit-maat-41-43/9300000075958243/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.4_34.48.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RwzJgZg96AQO/k86V5rX/550x537.jpg"
+            },
+            {
+                "Name": "Nike Everyday Cushion Crew Sportsokken Unisex",
+                "Price": 19.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nike-everyday-cushion-crew-sportsokken-unisex-maat-42-46/9200000106197030/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.4_34.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/A944YmyJMAXP/oQzO0oK/794x1200.jpg"
+            },
+            {
+                "Name": "Easton Marlowe Sokken Heren (6 Paar) van Gekamd Katoen Gekleurde Heren Sokken - Naadloos - Vrolijke Sokken Mannen - Grappige Herensokken - Cadeau Voor Man",
+                "Price": 16.99,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/easton-marlowe-sokken-heren-maat-43-46-van-gekamd-katoen-gekleurde-heren-sokken-naadloos-vrolijke-sokken-mannen-grappige-herensokken-cadeau-voor-man/9300000016141760/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.4_34.59.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NYmPBJmjK7ML/1200x657.jpg"
+            },
+            {
+                "Name": "Sokken voor heren die bij elkaar blijven in de was",
+                "Price": 26.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/sokken-voor-heren-die-bij-elkaar-blijven-in-de-was-39-42/9200000084819853/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.4_34.62.ProductImage",
+                "ImagePath": "https://media.s-bol.com/my776jpyVzG0/550x518.jpg"
+            },
+            {
+                "Name": "Happy Socks - Unisex 3-Pack Sweets Gift Box Sokken",
+                "Price": 19.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-unisex-3-pack-sweets-gift-box-sokken-41-46/9200000122020297/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/O7rlG6voYklr/975x1200.jpg"
+            },
+            {
+                "Name": "Tommy Hilfiger Sokken Heren 6P",
+                "Price": 27.29,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tommy-hilfiger-sokken-heren-6p-maat-43-46/9300000021057862/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x1X1nGXV9V79/550x390.jpg"
+            },
+            {
+                "Name": "Happy Socks XFAT08-4350 Super Dad Socks Gift Set 3-Pack",
+                "Price": 29.95,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-xfat08-4350-super-dad-socks-gift-set-3-pack-maat-41-46/9300000072930483/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3OJEW1Zg6xGM/916ADDP/1200x647.jpg"
+            },
+            {
+                "Name": "Anti-slip - Huissokken - 3 Paar",
+                "Price": 19.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/anti-slip-huissokken-3-paar-maat-43-46/9300000020986581/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gQXvrJlRvE2j/l56wgpr/1200x758.jpg"
+            },
+            {
+                "Name": "Happy Socks navy giftbox 4P multi III",
+                "Price": 35.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-navy-giftbox-4p-multi-iii-41-46/9300000072930465/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.56.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mGXkK1KzRJqO/VApWMB5/1200x582.jpg"
+            },
+            {
+                "Name": "Happy Socks Andy Warhol Limited Edition Giftbox",
+                "Price": 19.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/happy-socks-andy-warhol-limited-edition-giftbox-maat-41-46/9200000096433240/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.60.ProductImage",
+                "ImagePath": "https://media.s-bol.com/X6ExPqD2PmxA/oQ2xLDX/1125x1200.jpg"
+            },
+            {
+                "Name": "Pierre Cardin Heren Sokken - Voordeelset - 12-pack",
+                "Price": 22.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/pierre-cardin-heren-sokken-voordeelset-12-pack-maat-43-46/9300000022018072/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.lLWwQG6HIsDlrIKgAv1DqA_0_30.58.ProductImage",
+                "ImagePath": "https://media.s-bol.com/myjrMEB39jjp/942x1200.jpg"
+            },
+            {
+                "Name": "Grappige Sokken - Bier - Bring me Beer - One Size - Cadeau Mannen - Huissokken - Vaderdag - Verjaardag - Geschenk Man",
+                "Price": 8.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/grappige-sokken-bier-bring-me-beer-one-size-cadeau-mannen-huissokken-vaderdag-verjaardag-geschenk-man/9300000032593630/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.nOldmL7v8CH01XOXWeVJCQ_0_30.39.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x7B9y50LQ2oP/rRpDBg6/1142x1200.jpg"
+            },
+            {
+                "Name": "FALKE Cool Kick Unisex Sneakersokken",
+                "Price": 10.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/falke-cool-kick-unisex-sneakersokken-wit-maat-39-41/9200000058945892/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.nOldmL7v8CH01XOXWeVJCQ_0_30.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/kDPDP6w4wVxx/6X6vLRO/1200x608.jpg"
+            },
+            {
+                "Name": "PUMA Sport 3P Unisex",
+                "Price": 8.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/puma-sport-3p-unisex-43-46/9200000023253525/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.nOldmL7v8CH01XOXWeVJCQ_0_30.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gBQxZp0nvMk/1113x1200.jpg"
+            },
+            {
+                "Name": "Fortnite sokken - zwart met witte tekst Do not disturb, I'm playing Fortnite",
+                "Price": 5.15,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fortnite-sokken-zwart-met-witte-tekst-do-not-disturb-i-m-playing-fortnite-maat-37-42/9200000124918192/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.nOldmL7v8CH01XOXWeVJCQ_0_30.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g5YqWrRvgmxZ/896x1200.jpg"
+            },
+            {
+                "Name": "Puma Quarter Unisex Sokken - 6-pack",
+                "Price": 17.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/puma-quarter-unisex-sokken-6-pack-maat-43-46/9300000021057768/?bltgh=rt5DIdzncpnUBOG2mu9Ptw.nOldmL7v8CH01XOXWeVJCQ_0_30.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g2zn1pAKMoqr/550x269.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Fishnet Tights",
+                "Price": 12.95,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-fishnet-tights-zand-maat-s-m/9200000092300939/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.2_32.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/kVQ0NME4G7v/550x394.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Bio Cotton Tights",
+                "Price": 20.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-bio-cotton-tights-rood-fel-rood-maat-42-44/9300000047217420/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.2_32.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y0R1PzGq4ERn/YWvE6pO/396x840.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Opaque Comfort Tights",
+                "Price": 13.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-opaque-comfort-tights-40-grijs-oker-geel-geel-grijs-oker-geel-geel-mineral-yellow-geel-geel-maat-44-46-xxl/9300000045780580/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.2_32.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qD1N6BOqn4jk/wVn9DX8/327x840.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Fine Fishnet Tights",
+                "Price": 11.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-fine-fishnet-tights-zwart-maat-38-40/9200000098399217/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.kcCz91YuZVBc7y6CzxJN4w_0_30.48.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RrYVDVp1RkO/550x377.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Fine Zebra Tights",
+                "Price": 17.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-fine-zebra-tights-zwart-light-grey-heather-maat-38-40/9200000120416403/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.nk-cZA7YVfk9mkmr8ntNTA_0_30.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YEyvGm0OEW7O/550x380.jpg"
+            },
+            {
+                "Name": "Bonnie Doon - Dames - Soft Viscose Tights",
+                "Price": 22.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bonnie-doon-dames-soft-viscose-tights-zwart-maat-36-38/9200000120773576/?bltgh=jSrXDo0z-y-9LHH2LfZBHw.nk-cZA7YVfk9mkmr8ntNTA_0_30.39.ProductImage",
+                "ImagePath": "https://media.s-bol.com/680yk4qln0rz/550x384.jpg"
+            }
+        ]
+    },
+    "Appliances": {
+        "Vacuum Cleaners": [
+            {
+                "Name": "Philips PowerPro Compact PowerPro Compact FC9330 09 - Stofzuiger zonder zak",
+                "Price": 99.0,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/philips-powerpro-compact-fc9330-09-stofzuiger-zonder-zak/9200000072442735/?bltgh=ifD3Py6l4a63ERPmCpBMWg.4_50.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g59420RZRn6D/550x526.jpg"
+            },
+            {
+                "Name": "Miele Triflex HX2 Racer - Steelstofzuiger",
+                "Price": 789.0,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/miele-triflex-hx2-racer-steelstofzuiger-lotuswit/9300000093233716/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x8WVjm58LryB/pZYgrGV/1095x1200.jpg"
+            },
+            {
+                "Name": "Swiss Pro+ Snoerloze Stofzuiger V12 Steelstofzuiger met Kruimeldief turbo stand led verlichting in mondstuk Sterke Zuigkracht Draadloos Zonder Zak 4 In 1! Oplaadbaar Inclusief Muurbeugel 2022 Zwitsers Kwaliteit",
+                "Price": 99.0,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/swiss-pro-snoerloze-stofzuiger-v12-steelstofzuiger-met-kruimeldief-turbo-stand-led-verlichting-in-mondstuk-sterke-zuigkracht-draadloos-zonder-zak-4-in-1-oplaadbaar-inclusief-muurbeugel-purple-edition-2022-zwitsers-kwaliteit/9300000060817964/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m8JZWR79EDG3/w00yEJm/914x1200.jpg"
+            },
+            {
+                "Name": "Samsung VS15A6031R1 - Jet 60 Turbo - Steelstofzuiger",
+                "Price": 189.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/samsung-vs15a6031r1-jet-60-turbo-steelstofzuiger/9300000022253438/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.30.ProductImage",
+                "ImagePath": "https://media.s-bol.com/N86lgNM1rk5p/1105x1200.jpg"
+            },
+            {
+                "Name": "Dyson V10 Motorhead - Steelstofzuiger",
+                "Price": 489.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/dyson-v10-motorhead-steelstofzuiger/9200000090765426/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.32.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JExZl6zmLz59/k53g50X/635x1200.jpg"
+            },
+            {
+                "Name": "AEG CX7-1-35WK - Steelstofzuiger",
+                "Price": 179.99,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/aeg-cx7-1-35wk-steelstofzuiger/9300000071712654/?s2a=#productTitle",
+                "ImagePath": "https://media.s-bol.com/g6kARvA5j2YD/yrqqqZz/600x1200.jpg"
+            },
+            {
+                "Name": "Philips SpeedPro FC6722 01 - Steelstofzuiger",
+                "Price": 199.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/philips-speedpro-fc6722-01-steelstofzuiger/9200000105505507/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/pgj5kOq3E7OX/WLlllvX/585x1200.jpg"
+            },
+            {
+                "Name": "Accu-stofzuiger D1X - 4-in-1 Steelstofzuiger en Kruimeldief - Draadloze Stofzuiger - 160W - 2 Kracht Standen - Snoerloos - Zakloos - Oplaadbaar - Inclusief Wand bevestiging",
+                "Price": 88.0,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/accu-stofzuiger-d1x-4-in-1-steelstofzuiger-en-kruimeldief-draadloze-stofzuiger-160w-2-kracht-standen-snoerloos-zakloos-oplaadbaar-inclusief-wand-bevestiging/9300000069227397/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.41.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3KMRLw3mkwnR/BLZwo72/1200x1068.jpg"
+            },
+            {
+                "Name": "Xiaomi Mi Vacuum Cleaner G10 - Steelstofzuiger - Met dweilfunctie",
+                "Price": 244.95,
+                "Discount": 0.05,
+                "ProductPage": "https://www.bol.com/nl/nl/p/xiaomi-mi-vacuum-cleaner-g10-steelstofzuiger-met-dweilfunctie/9300000026397540/?bltgh=oW2cJm0feyxksFKO6l9CSQ.4_25.43.ProductImage",
+                "ImagePath": "https://media.s-bol.com/LALA6MlVrYPw/NxVoBjp/304x1200.jpg"
+            },
+            {
+                "Name": "Philips Stofzuiger met stofzak - 6 meter snoer - Combizuigmond Kierenzuigmond",
+                "Price": 99.99,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/philips-powergo-fc8244-09-stofzuiger-met-zak/9200000082397559/?bltgh=oW2cJm0feyxksFKO6l9CSQ.m9sendYjmzTVkLgjD7JKEw_0_21.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/VmlZrOkkzNAW/1200x1200.jpg"
+            },
+            {
+                "Name": "Tomado Stofzuiger met stofzak - 7 meter snoer",
+                "Price": 59.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tomado-tvc3001r-krachtige-stofzuiger-met-zak-hepa-13-filter-snoerlengte-7-meter-rood/9300000007034543/?bltgh=oW2cJm0feyxksFKO6l9CSQ.m9sendYjmzTVkLgjD7JKEw_0_21.31.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NO1yvOjmMYND/888x1200.jpg"
+            }
+        ],
+        "Kettles": [
+            {
+                "Name": "Philips Daily Collection HD9350 90 - Waterkoker",
+                "Price": 31.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/philips-daily-collection-hd9350-90-waterkoker/9200000079176207/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.75.ProductImage",
+                "ImagePath": "https://media.s-bol.com/pgjQBLEp8Eq1/550x649.jpg"
+            },
+            {
+                "Name": "KitchenAid 5KEK1522EER - Waterkoker",
+                "Price": 197,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/kitchenaid-5kek1522eer-waterkoker-keizer-rood/9200000019075713/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.76.ProductImage",
+                "ImagePath": "https://media.s-bol.com/v91lXyE10jVX/kZxxApN/550x499.jpg"
+            },
+            {
+                "Name": "Tesla KT301BX - Waterkoker - 1.5L - 2200W",
+                "Price": 34.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tesla-kt301bx-waterkoker-1-5l-2200w-mat-zwart-design/9300000096446795/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.77.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BO57Pj5nPq02/MZZ87XG/550x643.jpg"
+            },
+            {
+                "Name": "hilips Series 3000 HD9318 20 - Waterkoker",
+                "Price": 24.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/philips-series-3000-hd9318-20-waterkoker-zwart/9300000006206088/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.78.ProductImage",
+                "ImagePath": "https://media.s-bol.com/yX7NB3WXVGmE/Yv3Wl4M/550x649.jpg"
+            },
+            {
+                "Name": "Aigostar Adam 30GOM - Glazen Waterkoker met Led verlichting - Zwart - 2200W - 1,7 Liter - Glas",
+                "Price": 20,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/aigostar-adam-30gom-glazen-waterkoker-met-led-verlichting-zwart-2200w-1-7-liter-glas/9200000076464231/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.79.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3KDPXpJOyzxR/59zYNBx/934x1200.jpg"
+            },
+            {
+                "Name": "Princess 236017 - Waterkoker",
+                "Price": 22.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/princess-236017-waterkoker-zwart/9200000079737727/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.80.ProductImage",
+                "ImagePath": "https://media.s-bol.com/R1EMQPMrqQVV/1050x1200.jpg"
+            },
+            {
+                "Name": "Tomado TWK1701B - Kunststof waterkoker - Zwart - 1,7 liter inhoud - 2200 Watt",
+                "Price": 17.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tomado-twk1701b-kunststof-waterkoker-zwart-1-7-liter-inhoud-2200-watt/9200000123021635/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.81.ProductImage",
+                "ImagePath": "https://media.s-bol.com/79wVwqQr3o3Q/550x644.jpg"
+            },
+            {
+                "Name": "Inventum HW617B - Retro Waterkoker - 1.7 liter",
+                "Price": 41.89,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/inventum-hw617b-retro-waterkoker-1-7-liter-zwart/9200000072447147/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.82.ProductImage",
+                "ImagePath": "https://media.s-bol.com/xEALO7LBKJ3/1200x1167.jpg"
+            },
+            {
+                "Name": "Princess 236023 - Waterkoker",
+                "Price": 28.69,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/princess-236023-waterkoker-rvs-grijs/9200000080224732/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.83.ProductImage",
+                "ImagePath": "https://media.s-bol.com/D14mMODyxP2x/zKXWPm5/550x531.jpg"
+            },
+            {
+                "Name": "Tefal BI8125 - Waterkoker",
+                "Price": 32.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tefal-bi8125-waterkoker-zilver/9000000011035242/?bltgh=ossj5EXcA02r2GYHqvBNxA.4_74.84.ProductImage",
+                "ImagePath": "https://media.s-bol.com/zX3K16jEGpo8/gpkk5kD/1147x1200.jpg"
+            }
+        ]
+    },
+    "Cosmetics": {
+        "Eye Makeup": [
+            {
+                "Name": "Maybelline Hyper Precise All Day Liquid Eyeliner",
+                "Price": 9.99,
+                "Discount": 0.46,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-hyper-precise-all-day-liquid-eyeliner-zwart/9200000006576411/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.32.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mwXG0GJ6VpRR/263x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris SuperLiner Mat Matic Eyeliner",
+                "Price": 12.99,
+                "Discount": 0.5,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-superliner-mat-matic-eyeliner-03-taupe-grey/9200000023285526/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.34.ProductImage",
+                "ImagePath": "https://media.s-bol.com/0LVEpl24kZpX/1200x114.jpg"
+            },
+            {
+                "Name": "Maybelline Tattoo Liner Gel Pencil - 901 Intense Charcoal - Waterproof Oogpotlood",
+                "Price": 8.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-tattoo-liner-gel-pencil-901-intense-charcoal-grijs-waterproof-oogpotlood/9200000103422226/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/q6yJ5GOVjJr7/lR2gmPV/1200x99.jpg"
+            },
+            {
+                "Name": "Handaiyan Liquid Eyeliner - 12 Verschillende kleuren - Make Up - Set - Kleur - Cadeau - Kleuren - Waterproof & Langhoudend",
+                "Price": 19.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/handaiyan-liquid-eyeliner-12-verschillende-kleuren-make-up-set-kleur-cadeau-kleuren-waterproof-langhoudend/9300000035854443/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qAKKx75Jvkq0/Y611L2A/1200x697.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Superliner Perfect Slim - Intense Black - Zwarte Pen Eyeliner - 4,7 ml",
+                "Price": 13.99,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-superliner-perfect-slim-intense-black-zwarte-pen-eyeliner-4-7-ml/9300000020560637/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/wr7qn9O6NmDm/217x1200.jpg"
+            },
+            {
+                "Name": "Maybelline New York Tattoo Studio Tattoo Liner - Liquid Ink - 710 Inked Black - Zwart - Ultra langhoudende Liquid Eyeliner",
+                "Price": 12.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-new-york-tattoo-studio-tattoo-liner-liquid-ink-710-inked-black-zwart-ultra-langhoudende-liquid-eyeliner/9200000114014792/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.41.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NXzPGpJDrREN/Eq0pQQ4/1200x630.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Super Liner Ultra Precision Eyeliner Stift",
+                "Price": 14.49,
+                "Discount": 0.45,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-super-liner-ultra-precision-eyeliner-stift-zwart/9200000006576722/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.43.ProductImage",
+                "ImagePath": "https://media.s-bol.com/A12PnNLVoz0B/mOZkRYn/349x840.jpg"
+            },
+            {
+                "Name": "Max Factor Excess Intensity Longwear Eyeliner",
+                "Price": 7.39,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/max-factor-excess-intensity-longwear-eyeliner-006-excessive-brown/9200000039361907/?bltgh=iv0cVBxzLRcjbAY14A1E4w.4_31.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g2rM1MM29Dzr/xnkRV2r/363x1200.jpg"
+            },
+            {
+                "Name": "Max Factor Masterpiece Nude Palette Oogschaduw",
+                "Price": 6.29,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/max-factor-masterpiece-nude-palette-oogschaduw-002-golden-nudes/9200000076230808/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.32.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y5qjVPD2p3Bn/48nBq90/1200x795.jpg"
+            },
+            {
+                "Name": "NYX Professional Makeup Metallic Glitter Oogschaduw - Style Star MGLI06 - 2,5 gr",
+                "Price": 8.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nyx-professional-makeup-metallic-glitter-oogschaduw-style-star-mgli06-2-5-gr/9300000006930769/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3yVzLyx9nEQR/666x1200.jpg"
+            },
+            {
+                "Name": "Maybelline The Nudes Palette - 12 Nude - Bruin tinten - Oogschaduw palet",
+                "Price": 15.99,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-the-nudes-palette-12-nude-bruin-tinten-oogschaduw-palet/9200000043118136/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/4oqjzJq8AgJ/1200x719.jpg"
+            },
+            {
+                "Name": "Maybelline Color Tattoo 24H - Oogschaduw",
+                "Price": 6.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-color-tattoo-24h-87-mauve-crush-blauw-oogschaduw/9200000014099663/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mALGrLRL0lp/1200x1031.jpg"
+            },
+            {
+                "Name": "Uitgebreid Oogschaduw Palette - 120 Kleuren",
+                "Price": 12.62,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/uitgebreid-oogschaduw-palette-120-kleuren/9200000080109325/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3o3WAAzRqNO/1200x1109.jpg"
+            },
+            {
+                "Name": "NYX Professional Makeup Ultimate Shadow Palette - Brights USP04 - Oogschaduw Palet - 13,3 gr",
+                "Price": 18.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nyx-professional-makeup-ultimate-shadow-palette-brights-usp04-oogschaduw-palet-13-3-gr/9200000132584730/?bltgh=h4hVmApfLWRDH0P15b5DEw.4_31.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/wKjNk8Q8mPzg/1200x1164.jpg"
+            },
+            {
+                "Name": "Maybelline Lash Sensational Sky High - Very Black - Zwart - Lengte Mascara - 7,2ml",
+                "Price": 17.39,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-lash-sensational-sky-high-very-black-zwart-lengte-mascara-7-2ml/9300000020557290/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.26.ProductImage",
+                "ImagePath": "https://media.s-bol.com/ZWv540GVGg4E/406x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Bambi Eye by False Lash Mascara",
+                "Price": 18.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-bambi-eye-by-false-lash-mascara-zwart/9200000113097367/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NXzPjQyxwyY6/83MNlRg/1200x900.jpg"
+            },
+            {
+                "Name": "Maybelline Lash Sensational Volume Mascara - Very black - Zwart",
+                "Price": 8.15,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-lash-sensational-volume-mascara-very-black-zwart/9200000038630642/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.31.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gZ6nZjxgn89D/500x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris - Lash Paradise Mascara - 6,4 ml (Paradise Extatic)",
+                "Price": 7.7,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-lash-paradise-mascara-01-black-zwarte-volume-mascara-6-4-ml/9200000080489426/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3YlrqPKlBB2O/lOW44k6/371x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris - Volume Million Lashes - Zwart - Volume Mascara - 10,7 ml",
+                "Price": 18.99,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-volume-million-lashes-zwart-volume-mascara-10-7-ml/9200000006576915/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/myNK78pXZL13/483x1200.jpg"
+            },
+            {
+                "Name": "Rimmel London 100% Waterproof Mascara - 001 Black",
+                "Price": 7.09,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-100-waterproof-mascara-001-black/9200000059790601/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/9gz3GN0EJm18/303x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris - Bambi XXL Oversized Eye Mascara - Volume & Lengte Mascara - 8,9ml",
+                "Price": 18.49,
+                "Discount": 0.45,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-bambi-xxl-oversized-eye-mascara-zwart-volume-lengte-mascara-8-9ml/9300000020562333/?bltgh=goDQ0queTWvZdinoo-ZIHg.4_25.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/ZWnBx3AzY1KJ/466x1200.jpg"
+            },
+            {
+                "Name": "NYX Professional Makeup Fill & Fluff Eyebrow Pomade Pencil - Wenkbrauwpotlood",
+                "Price": 12.75,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nyx-professional-makeup-fill-fluff-eyebrow-pomade-pencil-brunette-ffep06-wenkbrauwpotlood/9200000132637696/?bltgh=tYbHvIW-0jqaBIGmSNBMcQ.4_34.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/LvgpPlDvKDnD/89x1200.jpg"
+            },
+            {
+                "Name": "Refectocil Wenkbrauw- en Wimperverf - 15 ml",
+                "Price": 7.81,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/refectocil-wenkbrauw-en-wimperverf-15-ml/9200000063711794/?bltgh=tYbHvIW-0jqaBIGmSNBMcQ.4_34.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RP7VDxwYpnrq/526x840.jpg"
+            },
+            {
+                "Name": "Rimmel London Professional Wenkbrauwpotlood",
+                "Price": 4.15,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-professional-wenkbrauwpotlood-001-dark-brown/9200000007032335/?bltgh=tYbHvIW-0jqaBIGmSNBMcQ.4_34.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/7XRoVl8Llkw8/rRMlXZ6/146x1200.jpg"
+            },
+            {
+                "Name": "SYOSS Wenkbrauwtint 4-1 Donkerbruin wenkbrauwverf - 1 stuk",
+                "Price": 12.49,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/syoss-wenkbrauwtint-4-1-donkerbruin-wenkbrauwverf-1-stuk/9200000110475484/?bltgh=tYbHvIW-0jqaBIGmSNBMcQ.4_34.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Ro9W2Km2jxqz/612x1200.jpg"
+            },
+            {
+                "Name": "Premium Wenkbrauw Stempel - Wenkbrauw Sjabloon - Wenkbrauwstempel - Brow Stamp - 10 Sjablonen - Borsteltje - Herbruikbaar - Waterdicht - Cadeau voor Haar -",
+                "Price": 12.45,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/premium-wenkbrauw-stempel-wenkbrauw-sjabloon-wenkbrauwstempel-brow-stamp-10-sjablonen-borsteltje-herbruikbaar-waterdicht-cadeau-voor-haar-mediumbruin/9300000050809168/?bltgh=tYbHvIW-0jqaBIGmSNBMcQ.4_34.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3OA3KlMLRxBn/ZYZrYAQ/1154x1200.jpg"
+            }
+        ],
+        "Skin Makeup": [
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris True Match Tinted Serum Foundation - 30ml",
+                "Price": 24.99,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-true-match-tinted-serum-foundation-0-5-2-very-light-30ml/9300000047384758/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/7DMZ416nKPxB/qj1A5gk/319x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Dream Radiant Liquid - Foundation Geschikt voor de Droge Huid met Hyaluronzuur - 30 ml",
+                "Price": 9.59,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-dream-radiant-liquid-3-7-vanilla-foundation-geschikt-voor-de-droge-huid-met-hyaluronzuur-30-ml/9200000128115113/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.28.ProductImage",
+                "ImagePath": "https://media.s-bol.com/L0xN1m53MzQr/MZJAWXO/337x1200.jpg"
+            },
+            {
+                "Name": "Clinique Even Better Foundation met SPF15",
+                "Price": 25.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/clinique-even-better-foundation-met-spf15-cn52-neutral/9200000040835624/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/49gwR955qrnJ/519x1200.jpg"
+            },
+            {
+                "Name": "Max Factor Facefinity All Day Flawless 3-in-1 Liquid Foundation",
+                "Price": 12.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/max-factor-facefinity-all-day-flawless-3-in-1-liquid-foundation-050-natural/9200000097631449/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m8rBXRgJZ9Pr/A6MlQwP/390x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Infallible 24Hr Fresh Wear Foundation",
+                "Price": 19.49,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-infallible-24hr-fresh-wear-foundation-145-rose-beige/9200000096448098/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/D896rwn4m6D6/296x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Make-Up Designer Infaillible 24H Fresh Wear Foundation - 260 Golden Sun - Langhoudend",
+                "Price": 19.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-make-up-designer-infaillible-24h-fresh-wear-foundation-260-golden-sun-langhoudend/9200000100517470/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/zXKQ5qjGkK7q/291x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Dream Matte Mousse Foundation",
+                "Price": 8.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-dream-matte-mousse-foundation-020-cameo/9200000006575970/?bltgh=mQavqckkyD96PES7wKlOJQ.4_25.41.ProductImage",
+                "ImagePath": "https://media.s-bol.com/lXqA0LLL0ryl/w0Kwy8g/1200x1092.jpg"
+            },
+            {
+                "Name": "Maybelline New York Instant Anti Age Eraser Concealer - 6,8 ml",
+                "Price": 13.99,
+                "Discount": 0.5,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-new-york-instant-anti-age-eraser-concealer-01-6-8-ml/9200000006576485/?bltgh=suSSnpM1eI8NKo5l9oNC5Q.4_25.26.ProductImage",
+                "ImagePath": "https://media.s-bol.com/7YVrvG10rQkQ/BN5kDqN/165x840.jpg"
+            },
+            {
+                "Name": "Maybelline Fit Me Concealer",
+                "Price": 5.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-fit-me-concealer-10-light/9200000006576533/?bltgh=suSSnpM1eI8NKo5l9oNC5Q.4_25.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/oy0QYR68XEGB/86mZyzg/348x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Infaillible More Than Concealer - Dekkend",
+                "Price": 14.99,
+                "Discount": 0.52,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-infaillible-more-than-concealer-324-oatmeal-dekkend/9200000103468322/?bltgh=suSSnpM1eI8NKo5l9oNC5Q.4_25.31.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m8rB6EwgzqOO/r2mo54k/222x1200.jpg"
+            },
+            {
+                "Name": "Max Factor Master Touch Concealer",
+                "Price": 6.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/max-factor-master-touch-concealer-303-ivory/9200000007088335/?bltgh=suSSnpM1eI8NKo5l9oNC5Q.4_25.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/R1RBYkWmjg4R/zvpxyVY/203x1200.jpg"
+            },
+            {
+                "Name": "Yves Saint Laurent Touche \u00c3\u2030clat Concealer",
+                "Price": 27.19,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/yves-saint-laurent-touche-eclat-concealer-2-5-luminous-vanilla/9200000036423344/?bltgh=suSSnpM1eI8NKo5l9oNC5Q.4_25.34.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qxRl85r3EMZ0/497x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Fit Me Matte & Poreless - Gezichtspoeder",
+                "Price": 5.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-fit-me-matte-poreless-105-natural-gezichtspoeder/9200000078720057/?bltgh=k3Byssu5SKjW9dv23i5Fiw.4_25.26.ProductImage",
+                "ImagePath": "https://media.s-bol.com/jLyBmrqlqKEl/jZk5XvB/1166x1200.jpg"
+            },
+            {
+                "Name": "Maybelline SuperStay Full Coverage Powder Foundation - Super Dekkende, Langhoudende Foundation Poeder met Matte Finish - Poeder voor Egaal Uitziende Huid - 9 gram",
+                "Price": 8.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-superstay-full-coverage-powder-foundation-40-fawn-super-dekkende-langhoudende-foundation-poeder-met-matte-finish-poeder-voor-egaal-uitziende-huid-9-gr/9200000043213696/?bltgh=k3Byssu5SKjW9dv23i5Fiw.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NYq7BlVKQkkp/jY0KV2R/958x1200.jpg"
+            },
+            {
+                "Name": "Rimmel London Stay Matte Pressed Powder",
+                "Price": 5.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-stay-matte-pressed-powder-003-peach-glow/9200000007032615/?bltgh=k3Byssu5SKjW9dv23i5Fiw.4_25.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/myvQRp2YNqoO/1198x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Baby Skin Pore Eraser Primer - Transparant",
+                "Price": 8.99,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-baby-skin-pore-eraser-primer-transparant/9200000045378006/?bltgh=s2r4NM-f243UWqkkXblMNg.4_22.23.ProductImage",
+                "ImagePath": "https://media.s-bol.com/9gOgXgz1l9rD/gZ4ggwG/453x1200.jpg"
+            },
+            {
+                "Name": "Eveline Cosmetics Unicorn Magic Drops Primer 30ml",
+                "Price": 7.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eveline-cosmetics-unicorn-magic-drops-primer-30ml/9300000021951812/?bltgh=s2r4NM-f243UWqkkXblMNg.4_22.24.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JPwx99mJmvJo/397x1200.jpg"
+            },
+            {
+                "Name": "NYX Professional Makeup Studio Perfect Primer - Clear SPP01 - Gezichts Primer - 30 ml",
+                "Price": 13.0,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nyx-professional-makeup-studio-perfect-primer-clear-spp01-gezichts-primer-30-ml/9300000006930819/?bltgh=s2r4NM-f243UWqkkXblMNg.4_22.25.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mYwzEVXJJMxA/527x1200.jpg"
+            },
+            {
+                "Name": "Rimmel London Natural Bronzer Bronzing Powder",
+                "Price": 8.34,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-natural-bronzer-bronzing-powder-26-sun-kissed/9200000007032609/?bltgh=oBgzsbEB0b-gKTnG0nRFfg.4_24.25.ProductImage",
+                "ImagePath": "https://media.s-bol.com/D6mBrYxAn24B/Qk6Gmpq/1200x551.jpg"
+            },
+            {
+                "Name": "NYX Professional Makeup Matte Body Bronzer",
+                "Price": 10.01,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nyx-professional-makeup-matte-body-bronzer-03-medium/9300000006930981/?bltgh=oBgzsbEB0b-gKTnG0nRFfg.4_24.26.ProductImage",
+                "ImagePath": "https://media.s-bol.com/14rEqYD8B1g3/923x1200.jpg"
+            },
+            {
+                "Name": "Sunkissed Bronze & Glow Bronzing Pearls - 45 gram",
+                "Price": 8.59,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/sunkissed-bronze-glow-bronzing-pearls-45-gram/9300000004738845/?bltgh=oBgzsbEB0b-gKTnG0nRFfg.4_24.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m8rB6qxmGElp/XQrlwr8/1200x966.jpg"
+            },
+            {
+                "Name": "MAC Cosmetics Bronzing Powder - Bronzer",
+                "Price": 31.24,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/mac-cosmetics-bronzing-powder-matte-bronze-bronzer/9200000100621320/?bltgh=oBgzsbEB0b-gKTnG0nRFfg.4_24.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/M156DYy4B9N5/1125x1200.jpg"
+            },
+            {
+                "Name": "Wibo 3 Steps To Perfect Face Light",
+                "Price": 13.22,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wibo-3-steps-to-perfect-face-light/9200000084819799/?bltgh=lGgUFzURnBDVeccCVRlKgg.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Bn0R5DPvJx2X/K1W74q8/550x305.jpg"
+            },
+            {
+                "Name": "Maybelline Fit Me Blush - 40 Peach - Oranje - Natuurlijk Ogende Rouge",
+                "Price": 9.99,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-fit-me-blush-40-peach-oranje-natuurlijk-ogende-rouge/9200000108659552/?bltgh=lGgUFzURnBDVeccCVRlKgg.4_25.32.ProductImage",
+                "ImagePath": "https://media.s-bol.com/MNy0XB7om2WP/J8NxX09/903x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris True Match Blush",
+                "Price": 13.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-true-match-blush-145-bois-de-rose/9200000035984789/?bltgh=lGgUFzURnBDVeccCVRlKgg.4_25.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qGGJVMQ8QMD/1192x1200.jpg"
+            },
+            {
+                "Name": "Max Factor Creme Puff Blush",
+                "Price": 12.4,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/max-factor-creme-puff-blush-010-nude-mauve/9200000075581206/?bltgh=lGgUFzURnBDVeccCVRlKgg.4_25.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qAXmLnMOZLAG/76R0gRG/1100x1200.jpg"
+            },
+            {
+                "Name": "L'Oreal - Infallible Blush Paint Chubby Blush",
+                "Price": 12.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-infallible-blush-paint-chubby-blush-300-pink/9200000079476018/?bltgh=lGgUFzURnBDVeccCVRlKgg.4_25.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/N8PWAXmOmmXL/700x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Master Studio Strobing Stick",
+                "Price": 11.99,
+                "Discount": 0.42,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-master-studio-strobing-stick-100-light/9200000062445906/?bltgh=sr3PJhmcR2VbvCSVbnxDAg.4_25.26.ProductImage",
+                "ImagePath": "https://media.s-bol.com/29Y18xq7QAGP/376x1200.jpg"
+            },
+            {
+                "Name": "Wonder Glow Liquid Highlighter Bronzed 20ml",
+                "Price": 10.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wonder-glow-liquid-highlighter-bronzed-20ml/9300000017538311/?bltgh=sr3PJhmcR2VbvCSVbnxDAg.4_25.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/ngwqRqY2NBXD/550x732.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris True Match Highlighter - 301.C Icy Glow",
+                "Price": 8.05,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-true-match-highlighter-301-c-icy-glow/9200000062447158/?bltgh=sr3PJhmcR2VbvCSVbnxDAg.4_25.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RlVV6l7oyMLK/360x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Master Chrome Highlighter",
+                "Price": 6.65,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-master-chrome-highlighter-100-molten-gold/9200000087713711/?bltgh=sr3PJhmcR2VbvCSVbnxDAg.4_25.33.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y5nv6vKYjnoA/kZPNQYY/1200x1197.jpg"
+            },
+            {
+                "Name": "Maybelline Master Contour V-Shape Duo Stick - Contouring",
+                "Price": 7.8,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-master-contour-v-shape-duo-stick-light-contouring/9200000062447972/?bltgh=oC1RQFdhg8HR6PE2IilIJQ.4_23.24.ProductImage",
+                "ImagePath": "https://media.s-bol.com/XoAV1JykNyVV/343x1200.jpg"
+            },
+            {
+                "Name": "Rimmel London Kate Sculpting Palette Gezichtspoeder",
+                "Price": 9.5,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-kate-sculpting-palette-gezichtspoeder-coral-glow/9200000055026189/?bltgh=oC1RQFdhg8HR6PE2IilIJQ.4_23.27.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g2AgMjl1moNj/DR22Qw6/636x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Infallible Foundation Shaping Stick",
+                "Price": 13.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-infallible-foundation-shaping-stick-220-caramel/9200000087713727/?bltgh=oC1RQFdhg8HR6PE2IilIJQ.4_23.29.ProductImage",
+                "ImagePath": "https://media.s-bol.com/KQZzBMDYYngM/292x1200.jpg"
+            }
+        ],
+        "Lip Makeup": [
+            {
+                "Name": "MAC Cosmetics Satin Lippenstift",
+                "Price": 8.5,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/mac-cosmetics-satin-lippenstift-twig/9200000100621420/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JVONj9K3JAJ/279x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Superstay Matte Ink Lippenstift",
+                "Price": 8.39,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-superstay-matte-ink-lippenstift-15-lover/9200000080243106/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RkEWnMr04gLY/Vv7jrBO/211x1200.jpg"
+            },
+            {
+                "Name": "Laneige Lip Sleeping Mask - Lipmasker - 20 ml",
+                "Price": 15.49,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/laneige-lip-sleeping-mask-lipmasker-20-ml/9300000001187665/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/27PG34VLDEJM/1200x1178.jpg"
+            },
+            {
+                "Name": "Maybelline New York - Lifter Gloss Lipgloss - Glanzende Lipgloss - 5,4ml",
+                "Price": 11.26,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-new-york-lifter-gloss-lipgloss-1-pearl-transparant-glanzende-lipgloss-5-4ml/9300000007873612/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BOkzvEnLLWAJ/99DNX5P/290x1200.jpg"
+            },
+            {
+                "Name": "Dior Addict Lip Maximizer Lipgloss",
+                "Price": 28.19,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/dior-addict-lip-maximizer-lipgloss-012-rosewood/9200000112028072/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mE9MPmGLVMQG/519x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris - Color Riche Satin Lippenstift - 4,54 gram",
+                "Price": 15.99,
+                "Discount": 0.44,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-color-riche-satin-lippenstift-645-jlo-nude-4-54-gram/9200000035056461/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/lx4Mo6KOXPpV/600x1200.jpg"
+            },
+            {
+                "Name": "Rimmel London Lasting Finish lippenstift",
+                "Price": 7.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rimmel-london-lasting-finish-lippenstift-210-coral-in-gold/9200000007032733/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mZwG7A12KnDr/667x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Infallible Lippenstift",
+                "Price": 17.99,
+                "Discount": 0.46,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-infallible-lippenstift-312-incessant-russet/9200000010706888/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.4_34.48.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YrO4x1BxDJzA/GRMr768/188x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Superstay Matte Ink Lippenstift",
+                "Price": 14.99,
+                "Discount": 0.59,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-superstay-matte-ink-lippenstift-25-heroine-rood/9200000103422204/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.36.ProductImage",
+                "ImagePath": "https://media.s-bol.com/4LDn3ly9qL30/vl2PQ0m/500x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Lifter Gloss Glanzende Lipgloss - Topaz - 5,4ml",
+                "Price": 10.99,
+                "Discount": 0.46,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-lifter-gloss-glanzende-lipgloss-topaz-5-4ml/9300000007873611/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JzvL1XP8W7pJ/83MNY5l/291x1200.jpg"
+            },
+            {
+                "Name": "L'Or\u00c3\u00a9al Paris Infallible Lippenstift",
+                "Price": 17.99,
+                "Discount": 0.58,
+                "ProductPage": "https://www.bol.com/nl/nl/p/l-oreal-paris-infallible-lippenstift-110-timeless-rose/9200000010706870/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.39.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mLBpBG5jDgA/160x1200.jpg"
+            },
+            {
+                "Name": "Labello Sun Protect SPF 30 - Lippenbalsem",
+                "Price": 5.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/labello-sun-protect-spf-30-lippenbalsem/9200000101107939/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mL8Z0662Vn3/330x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Color Sensational - Lipliner",
+                "Price": 7.99,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-color-sensational-775-copper-brown-bruin-lipliner/9200000006576161/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.41.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gvvvDWZ68O6/90x1200.jpg"
+            },
+            {
+                "Name": "Sisley Le Phyto Gloss Lipgloss 6 ml",
+                "Price": 34.95,
+                "Discount": 0.45,
+                "ProductPage": "https://www.bol.com/nl/nl/p/sisley-le-phyto-gloss-lipgloss-6-ml/9300000004816417/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/6GwRXv4jZYZz/Z86LvZR/383x1200.jpg"
+            },
+            {
+                "Name": "Maybelline Color Sensational - Lippenstift",
+                "Price": 12.49,
+                "Discount": 0.4,
+                "ProductPage": "https://www.bol.com/nl/nl/p/maybelline-color-sensational-165-pink-hurricane-roze-lippenstift/9200000006576165/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/zB4LKXNk2xQy/mwEoVJ9/454x1200.jpg"
+            },
+            {
+                "Name": "Vaseline Lip Therapy Cocoa Butter 20gr",
+                "Price": 2.04,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/vaseline-lip-therapy-cocoa-butter-20gr/9200000041132845/?bltgh=r7wPrecJGFF-AFGwF3BB5Q.gQ39rbvfz3pXze-0utVKiw_0_30.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/pkKLzno3PXkX/1175x1200.jpg"
+            }
+        ],
+        "Makeup Accessories": [
+            {
+                "Name": "Melodii ML10X - Make Up Spiegel met LED Verlichting - Scheerspiegel - 10x Vergroting - Met Tru-Daylight verlichting - Voor hem en voor haar",
+                "Price": 26.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/melodii-ml10x-make-up-spiegel-met-led-verlichting-scheerspiegel-10x-vergroting-met-tru-daylight-verlichting-voor-hem-en-voor-haar/9200000097954369/?bltgh=jFgTTAnTOc-hA5doehRCxg.4_13.14.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mZqwAJMJmjgE/1167x1200.jpg"
+            },
+            {
+                "Name": "Metalen verlichte wand knik arm badkamer LED Spiegel, Dubbelzijdig verlicht, 7x vergroting 22cm doorsnee, inculsief 4x AA batterijen en stroomkabel(USB)",
+                "Price": 129.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/metalen-verlichte-wand-knik-arm-badkamer-led-spiegel-chroom-dubbelzijdig-verlicht-7x-vergroting-22cm-doorsnee-inculsief-4x-aa-batterijen-en-stroomkabel/9300000045067057/?bltgh=jFgTTAnTOc-hA5doehRCxg.4_13.16.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g7Ln9XLVWv9D/AnE0qlp/1073x1200.jpg"
+            },
+            {
+                "Name": "Medisana Cosmetica-spiegel met LED verlichting CM 840",
+                "Price": 26.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/medisana-cosmetica-spiegel-met-led-verlichting-cm-840/9200000035774323/?bltgh=jFgTTAnTOc-hA5doehRCxg.4_13.18.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JERzZroEOvnP/NO8qw02/582x1200.jpg"
+            },
+            {
+                "Name": "Compact Make-up Spiegel met Tru-Daylight Verlichting - 10x Vergroting",
+                "Price": 21.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/compact-make-up-spiegel-met-tru-daylight-verlichting-10x-vergroting/9200000100293438/?bltgh=jFgTTAnTOc-hA5doehRCxg.4_13.22.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YE7M0gvNvBpY/1143x1200.jpg"
+            },
+            {
+                "Name": "Make-up Spiegel met LED Verlichting - Vergrootspiegel - Cosmetica  Visagie Spiegel - 22 LED's - Draaibaar - USB & Batterij - Rheme",
+                "Price": 22.5,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/make-up-spiegel-met-led-verlichting-vergrootspiegel-cosmetica-visagie-spiegel-22-led-s-draaibaar-usb-batterij-rheme/9300000091555802/?bltgh=jFgTTAnTOc-hA5doehRCxg.4_13.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/n7PKo7OkNwQP/0Y4VAZ7/1200x1113.jpg"
+            },
+            {
+                "Name": "Wegwerp Wimper en Wenkbrauw Borsteltjes - Mascara Borsteltjes - 10 stuks - Roze",
+                "Price": 1.85,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/wegwerp-wimper-en-wenkbrauw-borsteltjes-mascara-borsteltjes-10-stuks-roze/9300000009793225/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.35.ProductImage",
+                "ImagePath": "https://media.s-bol.com/364rjXRgQW6Q/1083x1200.jpg"
+            },
+            {
+                "Name": "Beauty Blender   Blender spons voor make-up   Foundation blender   Applicator Make-up   Make-up spons   Make-up Ei",
+                "Price": 2.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/beauty-blender-blender-spons-voor-make-up-foundation-blender-applicator-make-up-make-up-spons-make-up-ei/9200000106095519/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Yv0L4g54vYRO/746x1200.jpg"
+            },
+            {
+                "Name": "Bolero Bronzing Poeder & Kwast",
+                "Price": 21.69,
+                "Discount": 0.15,
+                "ProductPage": "https://www.bol.com/nl/nl/p/bolero-bronzing-poeder-kwast/9200000116062692/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mZZ1z91kVw33/843x1200.jpg"
+            },
+            {
+                "Name": "Professionele Make-up Kwastenset - 12 delig",
+                "Price": 12.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/professionele-make-up-kwastenset-12-delig-beige-goud/9200000066102736/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gQVP3Nnjk8PG/VPWWDN5/1200x1038.jpg"
+            },
+            {
+                "Name": "Evvie set van 10 make-up kwasten kabuki",
+                "Price": 7.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/evvie-set-van-10-make-up-kwasten-kabuki-wit-goud/9300000008400365/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m7PGWnVWxLAR/pg3zXY6/1200x1200.jpg"
+            },
+            {
+                "Name": "Elina Med - 10 stuks oogschaduw applicator - 7,5 cm lang - 2 x 5 stuks in blisterverpakking",
+                "Price": 3.84,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/elina-med-10-stuks-oogschaduw-applicator-7-5-cm-lang-2-x-5-stuks-in-blisterverpakking/9300000006064520/?bltgh=oMhmtwAJXeviNInExwNBmw.4_34.54.ProductImage",
+                "ImagePath": "https://media.s-bol.com/36y424qzor9A/550x563.jpg"
+            }
+        ]
+    },
+    "Bicycles": {
+        "Bicycle bags": [
+            {
+                "Name": "Ekostar\u00c2\u00ae Dubbele Fietstas - Waterafstotend - 41 Liter - Reflectoren \u00e2\u20ac\u201c Zwart \u00e2\u20ac\u201c Fietstassen Elektrische Fietsen",
+                "Price": 39.95,
+                "Discount": 0.1,
+                "ProductPage": "https://www.bol.com/nl/nl/p/ekostar-dubbele-fietstas-waterafstotend-41-liter-reflectoren-zwart-fietstassen-elektrische-fietsen/9300000033717162/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.37.ProductImage",
+                "ImagePath": "https://media.s-bol.com/NXZXlDnvmDNv/36wGNor/550x480.jpg"
+            },
+            {
+                "Name": "Fastrider Hybrid Large Dubbele Fietstas Grijs - 35L",
+                "Price": 38.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fastrider-hybrid-large-dubbele-fietstas-grijs-35l/9200000130655149/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.38.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YvX7XDwO50m0/1200x1061.jpg"
+            },
+            {
+                "Name": "Fastrider Nyla Kids Dubbele Fietstas Roze - 15L",
+                "Price": 34.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fastrider-nyla-kids-dubbele-fietstas-roze-15l/9200000130655249/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.39.ProductImage",
+                "ImagePath": "https://media.s-bol.com/PZxWm4kAp8o2/1200x1001.jpg"
+            },
+            {
+                "Name": "Dutch Mountains Enkele Fietstas   Rugzak   100% Waterdicht   Fietstas, Schoudertas en Rugtas in 1   28 Liter",
+                "Price": 42.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/dutch-mountains-enkele-fietstas-rugzak-100-waterdicht-fietstas-schoudertas-en-rugtas-in-1-28-liter-carbon-zwart/9300000004904037/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.40.ProductImage",
+                "ImagePath": "https://media.s-bol.com/D1GRB753xjv6/1013x1200.jpg"
+            },
+            {
+                "Name": "Dunlop Dubbele Fietstas - 30 x 36 x 12 cm - Waterdicht - Fluorescerend - 26 Liter",
+                "Price": 15.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/dunlop-dubbele-fietstas-30-x-36-x-12-cm-waterdicht-fluorescerend-26-liter-zwart/9200000050526206/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.42.ProductImage",
+                "ImagePath": "https://media.s-bol.com/B1BKoZXozV4n/qjW9Alp/1200x983.jpg"
+            },
+            {
+                "Name": "Basil Mara XL Dubbele fietstas - Zwart - 35 Liter",
+                "Price": 29.95,
+                "Discount": 0.07,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-mara-xl-dubbele-fietstas-zwart-35-liter/9200000017121914/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.43.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qPpEzYV3wvy/550x465.jpg"
+            },
+            {
+                "Name": "Basil Wanderlust Dubbele fietstas - Zwart - 35 Liter",
+                "Price": 29.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-wanderlust-dubbele-fietstas-zwart-35-liter/9200000049787627/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.44.ProductImage",
+                "ImagePath": "https://media.s-bol.com/xkJ3NWmnRknq/550x521.jpg"
+            },
+            {
+                "Name": "Basil City fietsshopper - Enkele Fietstas - 16 liter",
+                "Price": 34.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-city-fietsshopper-enkele-fietstas-16-liter-zwart/9200000098800757/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.45.ProductImage",
+                "ImagePath": "https://media.s-bol.com/D0mJAyDVkBQB/oQGpAAX/550x510.jpg"
+            },
+            {
+                "Name": "LifeGoods Fietstas - Enkele - 25L - Waterdicht - Ook voor Elektrische Fietsen - Met Schouderbanden - Reflecterende Bedrukking - Dragen als Rugzak en Schoudertas",
+                "Price": 49.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/lifegoods-fietstas-enkele-25l-waterdicht-ook-voor-elektrische-fietsen-met-schouderbanden-reflecterende-bedrukking-dragen-als-rugzak-en-schoudertas-zwart/9300000070522526/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.46.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BQEQxlAlOQgx/jZQJVry/1200x1200.jpg"
+            },
+            {
+                "Name": "Ekostar Dubbele Fietstas - Waterdicht - 41 Liter - Reflectoren - Zwart - Fietstassen Elektrische Fietsen",
+                "Price": 44.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/ekostar-dubbele-fietstas-waterdicht-41-liter-reflectoren-zwart-fietstassen-elektrische-fietsen/9300000090757757/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.47.ProductImage",
+                "ImagePath": "https://media.s-bol.com/x8O54qNgGx3z/MZ1rBwP/550x550.jpg"
+            },
+            {
+                "Name": "Basil City Dubbele fietstas - Zwart - 32 Liter",
+                "Price": 51.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-city-dubbele-fietstas-zwart-32-liter/9300000007378766/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.48.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Xrxygx85yYzA/1200x966.jpg"
+            },
+            {
+                "Name": "gofluo. Robin Fietstas - Laptoptas - Reflecterende Schoudertas - Tot 17 inch laptops geschikt - Khaki",
+                "Price": 105.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/gofluo-robin-fietstas-laptoptas-reflecterende-schoudertas-tot-17-laptops-geschikt-khaki/9300000070400084/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.49.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JzkG1GoZ3xE9/99rW0RY/550x451.jpg"
+            },
+            {
+                "Name": "AGU Essentials DWR Dubbele Fietstas Urban Klickfix Geel - 36 L",
+                "Price": 64.95,
+                "Discount": 0.14,
+                "ProductPage": "https://www.bol.com/nl/nl/p/agu-essentials-dwr-dubbele-fietstas-urban-klickfix-geel-36-l/9200000130655157/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.50.ProductImage",
+                "ImagePath": "https://media.s-bol.com/JqpLv1EzgzRg/550x613.jpg"
+            },
+            {
+                "Name": "Basil Tour Dubbele Fietstas - 28 Liter",
+                "Price": 37.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-tour-dubbele-fietstas-28-liter-zwart/9200000017120554/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.51.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Y0Pl0gRjYDN2/91pg1zD/550x478.jpg"
+            },
+            {
+                "Name": "Basil Urban Load Dubbele fietstas - Zwart - 48 Liter",
+                "Price": 39.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/basil-urban-load-dubbele-fietstas-zwart-48-liter/9200000076232415/?bltgh=oJzVLo45YwJSem-rx4ZJng.4_36.53.ProductImage",
+                "ImagePath": "https://media.s-bol.com/YvmYo5zB6n9K/550x449.jpg"
+            }
+        ]
+    },
+    "Bags": {
+        "Backpacks": [
+            {
+                "Name": "Eastpak Out Of Office Rugzak - 27 Liter",
+                "Price": 53.95,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eastpak-out-of-office-rugzak-27-liter-zwart/9200000043885640/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.55.ProductImage",
+                "ImagePath": "https://media.s-bol.com/WqPlvgpE3Dm4/PZXQBZ6/765x1200.jpg"
+            },
+            {
+                "Name": "Rugzak licht blauw Ki-Mood Urban Stijl Backpack KI0138",
+                "Price": 34.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/rugzak-licht-blauw-ki-mood-urban-stijl-backpack-ki0138-iris-blue/9200000112277386/?s2a=#productTitle",
+                "ImagePath": "https://media.s-bol.com/Nkkpgr4YxMLD/730x1200.jpg"
+            },
+            {
+                "Name": "NOMAD Focus Daypack 20 L Rugzak - Foam",
+                "Price": 49.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/nomad-focus-daypack-20-l-rugzak-foam-rosebrown/9200000106114682/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.57.ProductImage",
+                "ImagePath": "https://media.s-bol.com/R8k04DgogZyV/6R5wmkQ/822x1200.jpg"
+            },
+            {
+                "Name": "Eastpak Padded Pak'R Rugzak 24 Liter",
+                "Price": 42.95,
+                "Discount": 0.23,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eastpak-padded-pak-r-rugzak-24-liter-black/9200000017903431/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.58.ProductImage",
+                "ImagePath": "https://media.s-bol.com/O8g2olMrqOVr/550x712.jpg"
+            },
+            {
+                "Name": "TravelMore Rugzak - 15,6 inch Laptop Rugtas - 28L - Waterafstotend",
+                "Price": 37.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/travelmore-rugzak-15-6-inch-laptop-rugtas-28l-waterafstotend-zwart/9300000006773291/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.59.ProductImage",
+                "ImagePath": "https://media.s-bol.com/m2N2jJ7B1y30/oYOJLRj/931x1200.jpg"
+            },
+            {
+                "Name": "Anti Diefstal Waterdichte Rugzak Inclusief Usb Oplaadstation - Laptop tas 14 t m 15,6 inch - voor dames en heren",
+                "Price": 59.99,
+                "Discount": 0.33,
+                "ProductPage": "https://www.bol.com/nl/nl/p/anti-diefstal-waterdichte-rugzak-inclusief-usb-oplaadstation-laptop-tas-14-t-m-15-6-inch-voor-dames-en-heren-zwart-van-zedar-vaderdag-cadeau/9300000040381269/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.60.ProductImage",
+                "ImagePath": "https://media.s-bol.com/R8GrJw2JV84R/xGXODx3/795x1200.jpg"
+            },
+            {
+                "Name": "TravelMore Rugzak XL - 17,3 inch Laptop Rugtas - 36L - Waterafstotend",
+                "Price": 41.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/travelmore-rugzak-xl-17-3-inch-laptop-rugtas-36l-waterafstotend-grijs/9300000006777211/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.61.ProductImage",
+                "ImagePath": "https://media.s-bol.com/3jVjmQwwklq4/vgjJG7n/550x714.jpg"
+            },
+            {
+                "Name": "TravelZ Hipster Rugtas   28 liter Rugzak   Laptop rugtas 17 inch   Veel compartimenten en laptopvak",
+                "Price": 27.49,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/travelz-hipster-rugtas-28-liter-rugzak-laptop-rugtas-17-veel-compartimenten-en-laptopvak-blauw/9200000094321019/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.63.ProductImage",
+                "ImagePath": "https://media.s-bol.com/qxRP5AXVwA52/550x743.jpg"
+            },
+            {
+                "Name": "Little Dutch Rugzak - Bloemetjes",
+                "Price": 17.89,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/little-dutch-rugzak-bloemetjes-wit-roze/9300000006887327/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.62.ProductImage",
+                "ImagePath": "https://media.s-bol.com/nG2LyEB1k59l/qjg3LO7/775x1200.jpg"
+            },
+            {
+                "Name": "Anti-diefstal rugzak - Rugtas dames - Waterdicht - Klein - Anti-theft backpack - Rug-, Schouder-, Handtas in een - zacht PU-leer - incl. verstelbare riem- DomanEmpire",
+                "Price": 39.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/anti-diefstal-rugzak-rugtas-dames-waterdicht-klein-anti-theft-backpack-rug-schouder-handtas-in-een-zacht-pu-leer-incl-verstelbare-riem-domanempire/9200000110394311/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.64.ProductImage",
+                "ImagePath": "https://media.s-bol.com/B7PDA9ZV75k/1178x1200.jpg"
+            },
+            {
+                "Name": "DutchOne Rugzak met USB Oplaadpoort 30L Zwart Luxe Laptop Rugtas 16 inch - Schooltas - Heren - Dames - Jongens - Meisjes - Waterafstotend - Rugzakken",
+                "Price": 42.9,
+                "Discount": 0.07,
+                "ProductPage": "https://www.bol.com/nl/nl/p/dutchone-rugzak-met-usb-oplaadpoort-30l-zwart-luxe-laptop-rugtas-15-6-inch-schooltas-heren-dames-jongens-meisjes-waterafstotend-rugzakken/9300000036485449/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.65.ProductImage",
+                "ImagePath": "https://media.s-bol.com/7AlPPkMZ3xxj/1200x1108.jpg"
+            },
+            {
+                "Name": "Fjallraven Kanken Rugzak 16 liter",
+                "Price": 89.99,
+                "Discount": 0.31,
+                "ProductPage": "https://www.bol.com/nl/nl/p/fjallraven-kanken-rugzak-16-liter-forest-green/9200000025889598/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.66.ProductImage",
+                "ImagePath": "https://media.s-bol.com/q6o8vPBNqLmk/gZl8Xw3/546x840.jpg"
+            },
+            {
+                "Name": "Tigernu Modern - laptop rugzak - anti diefstal - rugtas - waterafstotend - schooltas - t m 15,6",
+                "Price": 49.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tigernu-modern-rugzak-laptop-rugzak-t-m-15-6-inch-schooltas-rugtas-dames-en-heren-spatwater-dicht-anti-diefstal-27-liter-grijs/9200000097131674/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.67.ProductImage",
+                "ImagePath": "https://media.s-bol.com/RkZkwGEy8rZq/EqxOm3Y/1088x1200.jpg"
+            },
+            {
+                "Name": "ssublime Vault - Anti Diefstal Waterdichte Rugzak - Laptoptas met 15.6 tot 17 Inch Laptopvak - Rugtas Met USB \u00c3\u00a9n Audio Aansluiting - Voor Dames en Heren - Inclusief TSA Ritsslot",
+                "Price": 99,
+                "Discount": 0.19,
+                "ProductPage": "https://www.bol.com/nl/nl/p/ssublime-vault-anti-diefstal-waterdichte-rugzak-laptoptas-met-15-6-tot-17-inch-laptopvak-rugtas-met-usb-en-audio-aansluiting-voor-dames-en-heren-inclusief-tsa-ritsslot-zwart/9200000115817094/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.68.ProductImage",
+                "ImagePath": "https://media.s-bol.com/ROPoMDlVmOzY/550x827.jpg"
+            },
+            {
+                "Name": "Eastpak Back To Work Rugzak 27 Liter",
+                "Price": 59.9,
+                "Discount": 0.3,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eastpak-back-to-work-rugzak-27-liter-black-denim/9200000037387361/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.69.ProductImage",
+                "ImagePath": "https://media.s-bol.com/Z08oyqL389G8/GZljlqy/734x1200.jpg"
+            },
+            {
+                "Name": "Milky Kiss Jungle Vibes - Rugzak - Schooltas meisje",
+                "Price": 23.9,
+                "Discount": 0.33,
+                "ProductPage": "https://www.bol.com/nl/nl/p/milky-kiss-jungle-vibes-rugzak-schooltas-meisje-roze-panterprint/9200000106578354/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.70.ProductImage",
+                "ImagePath": "https://media.s-bol.com/k8KkBn59vj35/550x777.jpg"
+            },
+            {
+                "Name": "TravelMore Rugzak XL - 17,3 inch Laptop Rugtas - 36L - Waterafstotend",
+                "Price": 41.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/travelmore-rugzak-xl-17-3-inch-laptop-rugtas-36l-waterafstotend-blauw/9300000006777449/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.73.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gxMx9QmxOxRr/j2nJDJy/550x724.jpg"
+            },
+            {
+                "Name": "The North Face Connector Rugzak - 27 Liter",
+                "Price": 69.89,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/the-north-face-connector-rugzak-27-liter-zwart/9300000006520939/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.74.ProductImage",
+                "ImagePath": "https://media.s-bol.com/5RGPoJv8NJKq/287mOP1/550x667.jpg"
+            },
+            {
+                "Name": "Tigernu Business II laptop rugzak - anti diefstal rugzak - t m 17 inch - waterafstotend - grijs - 33x49cm - INCLUSIEF regenhoes en cijferslot",
+                "Price": 59.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tigernu-business-ii-laptop-rugzak-anti-diefstal-rugzak-t-m-17-inch-waterafstotend-grijs-33x49cm-inclusief-regenhoes-en-cijferslot/9200000095623573/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.75.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g74PLZ0k66JG/An4jJO7/1059x1200.jpg"
+            },
+            {
+                "Name": "TravelMore Rugzak XL - 17,3 inch Laptop Rugtas - 36L - Waterafstotend",
+                "Price": 41.99,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/travelmore-rugzak-xl-17-3-inch-laptop-rugtas-36l-waterafstotend-blauw/9300000006777449/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.73.ProductImage",
+                "ImagePath": "https://media.s-bol.com/gxMx9QmxOxRr/j2nJDJy/550x724.jpg"
+            },
+            {
+                "Name": "The North Face Connector Rugzak - 27 Liter",
+                "Price": 69.89,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/the-north-face-connector-rugzak-27-liter-zwart/9300000006520939/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.74.ProductImage",
+                "ImagePath": "https://media.s-bol.com/5RGPoJv8NJKq/287mOP1/989x1200.jpg"
+            },
+            {
+                "Name": "Tigernu Business II laptop rugzak - anti diefstal rugzak - t m 17 inch - waterafstotend - grijs - 33x49cm - INCLUSIEF regenhoes en cijferslot",
+                "Price": 59.95,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/tigernu-business-ii-laptop-rugzak-anti-diefstal-rugzak-t-m-17-inch-waterafstotend-grijs-33x49cm-inclusief-regenhoes-en-cijferslot/9200000095623573/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.75.ProductImage",
+                "ImagePath": "https://media.s-bol.com/g74PLZ0k66JG/An4jJO7/550x622.jpg"
+            },
+            {
+                "Name": "The North Face Groundwork Rugzak - 27,5 Liter",
+                "Price": 74.89,
+                "Discount": 0.0,
+                "ProductPage": "https://www.bol.com/nl/nl/p/the-north-face-groundwork-rugzak-27-5-liter-zwart/9300000006521043/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.76.ProductImage",
+                "ImagePath": "https://media.s-bol.com/mY81QY94LKz9/Qk6pvMl/550x675.jpg"
+            },
+            {
+                "Name": "Eastpak Out Of Office Rugzak 27 Liter",
+                "Price": 52.99,
+                "Discount": 0.25,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eastpak-out-of-office-rugzak-27-liter-black-denim/9200000037312308/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.77.ProductImage",
+                "ImagePath": "https://media.s-bol.com/69Wvyrjzq7pz/voEKWPn/535x840.jpg"
+            },
+            {
+                "Name": "Eastpak Pinnacle Rugzak - 38 Liter",
+                "Price": 89,
+                "Discount": 0.2,
+                "ProductPage": "https://www.bol.com/nl/nl/p/eastpak-pinnacle-rugzak-38-liter-spark-black/9300000069206916/?bltgh=mTM87OPMNa-O-YGqbTpLdw.4_54.82.ProductImage",
+                "ImagePath": "https://media.s-bol.com/BQLqBY8pOj4n/1rJXn9P/547x840.jpg"
+            }
+        ]
+    }
+}
